@@ -1,6 +1,6 @@
 # linear-algerbra-and-its-application-term-project
 
-Jacobi.cpp is the code using Jacobi method
+Jacobi.cpp is the code using Jacobi method\n
 GS.cpp is the code using Gauss-Seidel method
 GRMES.cpp you know that
 LU.cpp ...
