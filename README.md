@@ -13,3 +13,7 @@ sor.cpp ...
 tool.cpp .h is some sharing function for both code
 
 use Cmake and make to build up the code and in build floder have two .sh file to run the two experiment
+
+game1.sh can run the experiment 2
+
+exp3.sh 
