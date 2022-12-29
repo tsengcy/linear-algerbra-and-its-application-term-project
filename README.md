@@ -16,4 +16,4 @@ use Cmake and make to build up the code and in build floder have two .sh file to
 
 game1.sh can run the experiment 2
 
-exp3.sh 
+exp3.sh can run the experiment 3
